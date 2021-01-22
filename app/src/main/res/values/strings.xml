@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RammsteinTR</string>
+    <string name="baglanti_YOK">baglantiYOK</string>
+    <string name="app_splashEkranBilgi">SplashActivity</string>
+    <string name="app_information">İnternet Bağlantınız Yok</string>
+    <string name="app_netInformation">Uygulamaya girmek için internetinizi açın!</string>
+    <string name="app_goSettings">Ayarlara Git</string>
+    <string name="app_no">Hayır</string>
+    <string name="karsinizda">KARŞINIZDA: </string>
+    <string name="uyelerEmin">"Üyeler menüsüne dönmek istediğine emin misin"</string>
+    <string name="uyelerEVET">"Evet"</string>
+    <string name="uyelerHAYIR">"Hayır"</string>
+</resources>

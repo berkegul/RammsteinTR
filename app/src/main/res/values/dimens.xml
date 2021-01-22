@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name ="txtpadding"> 16dp </dimen>
+    <dimen name ="txt10padding"> 10dp </dimen>
+    <dimen name="rcvlayout_width">400dp</dimen>
+    <dimen name="rcvlayout_heigh">600dp</dimen>
+    <dimen name="fotografheigh">100dp</dimen>
+    <dimen  name="fotografwidth">50dp</dimen>
+    <dimen name="kapakBosluk">549dp</dimen>
+    <dimen name="layoutDetay49">49dp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="padding150dp">150dp</dimen>
+    <dimen name="layoutwidth408dp">408dp</dimen>
+    <dimen name="layoutheigh447dp">447dp</dimen>
+    <dimen name="marginTOP5">5dp</dimen>
+    <dimen name="rcv395">395dp</dimen>
+</resources>
